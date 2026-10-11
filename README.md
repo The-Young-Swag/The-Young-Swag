@@ -18,63 +18,43 @@
                    ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=00F0FF&center=true&vCenter=true&width=560&lines=Junior+Full-Stack+Developer;Modern+Web+Apps+%C2%B7+LLM-Powered+Solutions;Architecting+the+future%2C+one+component+at+a+time)](https://ivan-harvey-rivera.vercel.app/)
+<img src="assets/lofi-tagline.svg" width="100%" alt="Junior Full-Stack Developer. Modern Web Apps and LLM-Powered Solutions." />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ivan--harvey--rivera.vercel.app-ff2e97?style=for-the-badge&labelColor=0d1117)](https://ivan-harvey-rivera.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ivan--harvey--rivera-00f0ff?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://www.linkedin.com/in/ivan-harvey-rivera/)
+<a href="https://ivan-harvey-rivera.vercel.app/"><img src="assets/btn-portfolio.svg" width="49.4%" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ivan-harvey-rivera/"><img src="assets/btn-linkedin.svg" width="49.4%" alt="LinkedIn" /></a>
 
 ```text
 ╭────────────────────────────────────────────────────────────────────────────────╮
-│ ♪  A B O U T                                                          track 01 │
+│ ▌ N O W   P L A Y I N G                                                 side A │
 ├────────────────────────────────────────────────────────────────────────────────┤
+│ A B O U T                                                             track 01 │
 │                                                                                │
-│ I’m a Junior Full-Stack Developer who builds modern web applications and       │
+│ I'm a Junior Full-Stack Developer who builds modern web applications and       │
 │ LLM-powered solutions. I enjoy turning ambitious ideas into practical,         │
 │ well-structured software. I value clean engineering, thoughtful user           │
 │ experiences, and scalable architecture, continuously deepening my              │
-│ understanding of how software works. I’m constantly learning, building, and    │
+│ understanding of how software works. I'm constantly learning, building, and    │
 │                                                                                │
-├────────────────────────────────────────────────────────────────────────────────┤
-│ ♪  ARCHITECTING THE FUTURE ONE COMPONENT AT A TIME.  ♪                         │
-├────────────────────────────────────────────────────────────────────────────────┤
-│ ◄◄   ►   ►►    ━━━━●─────────────────────────────                    ▂▄▆█  vol │
-╰────────────────────────────────────────────────────────────────────────────────╯
-```
-
-```text
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ ♪  S T A C K                                                          track 02 │
-├────────────────────────────────────────────────────────────────────────────────┤
+│ ▌ ARCHITECTING THE FUTURE ONE COMPONENT AT A TIME. ▐                           │
+├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┤
+│ S T A C K                                                             track 02 │
 │                                                                                │
 │ FRONTEND   React · TypeScript · JavaScript · Next.js · Vite · Svelte           │
-│                                                                                │
 │ BACKEND    Node.js · Express · FastAPI · Python · PHP                          │
-│                                                                                │
 │ DATA       SQLite · Drizzle ORM                                                │
+├┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┤
+│ C R E D E N T I A L S                                                 track 03 │
 │                                                                                │
-├────────────────────────────────────────────────────────────────────────────────┤
-│ ◄◄   ►   ►►    ━━━━━━━━━━━━━━━●──────────────────                    ▂▄▆█  vol │
-╰────────────────────────────────────────────────────────────────────────────────╯
-```
-
-```text
-╭────────────────────────────────────────────────────────────────────────────────╮
-│ ♪  C R E D E N T I A L S                                              track 03 │
-├────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                │
-│ ▸ IBM Full-Stack Software Developer Professional Certificate          JUL 2026 │
+│ › IBM Full-Stack Software Developer Professional Certificate          JUL 2026 │
 │   Coursera                                                                     │
-│                                                                                │
-│ ▸ ASEAN AI Hackathon 2026 Certificate                                 JUN 2026 │
+│ › ASEAN AI Hackathon 2026 Certificate                                 JUN 2026 │
 │   Passage to ASEAN (P2A) Association                                           │
-│                                                                                │
-│ ▸ BSIT, Cum Laude                                                         2026 │
+│ › BSIT, Cum Laude                                                         2026 │
 │   Tarlac Agricultural University                                               │
 │                                                                                │
+│ +  BONUS TRACKS                          Pull Shark  ·  Starstruck ×2  ·  YOLO │
 ├────────────────────────────────────────────────────────────────────────────────┤
-│ ★  BONUS TRACKS                          Pull Shark  ·  Starstruck ×2  ·  YOLO │
-├────────────────────────────────────────────────────────────────────────────────┤
-│ ◄◄   ►   ►►    ━━━━━━━━━━━━━━━━━━━━━━━━━━●───────                    ▂▄▆█  vol │
+│ |<   >   >|    ━━━━━━━━━━━━━━█───────────────────                     vol ▂▄▆█ │
 ╰────────────────────────────────────────────────────────────────────────────────╯
 ```
 
