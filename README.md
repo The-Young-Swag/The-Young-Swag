@@ -9,7 +9,7 @@
 <a href="https://ivan-harvey-rivera.vercel.app/"><img src="assets/btn-portfolio.svg" width="49.4%" alt="Portfolio: ivan-harvey-rivera.vercel.app" /></a>
 <a href="https://www.linkedin.com/in/ivan-harvey-rivera/"><img src="assets/btn-linkedin.svg" width="49.4%" alt="LinkedIn: in/ivan-harvey-rivera" /></a>
 
-<img src="assets/profile-card.svg" width="100%" alt="Profile card. About: Junior Full-Stack Developer who builds modern web applications and LLM-powered solutions. Stack: React, TypeScript, JavaScript, Next.js, Vite, Svelte, Node.js, Express, FastAPI, Python, PHP, SQLite, Drizzle ORM. Credentials: IBM Full-Stack Software Developer Professional Certificate (Coursera, July 2026), ASEAN AI Hackathon 2026 Certificate (Passage to ASEAN, June 2026), BSIT Cum Laude from Tarlac Agricultural University (2026). Bonus: Pull Shark, Starstruck x2, YOLO." />
+<img src="assets/profile-card.svg" width="100%" alt="Profile card. About: Junior Full-Stack Developer who builds modern web applications and LLM-powered solutions. Stack: React, TypeScript, JavaScript, Next.js, Vite, Svelte, Node.js, Express, FastAPI, Python, PHP, SQLite, Drizzle ORM. Certificates: IBM Full-Stack Software Developer Professional Certificate (Coursera, July 2026), ASEAN AI Hackathon 2026 Certificate (Passage to ASEAN, June 2026), National Innovation Day Hackathon (DEVCON Philippines, April 2025), National Innovation Day Hackathon: Unboxing the Filipino Mindset (Synetcom Philippines, April 2024). Bonus: Pull Shark, Starstruck x2, YOLO." />
 
 <img src="assets/helix.svg" width="100%" alt="Animated double helix" />
 
